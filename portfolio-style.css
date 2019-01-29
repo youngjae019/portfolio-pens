@@ -1,0 +1,41 @@
+.navlink {
+  padding-right: 75px;
+  font-size: 18px;
+  font-family: Raleway;
+}
+body {
+  font-family: Raleway;
+  text-align: center;
+}
+.navbar-default .navbar-brand {
+    color: #ff6a32;
+}
+.container-fluid {
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+p {
+  font-size: 18px;
+}
+h2 {
+  margin-top: 400px;
+  padding-bottom: 75px;
+}
+
+img {
+  border: thin silver solid;
+}
+figcaption {
+  margin-top: 5px;
+}
+button {
+  padding-top: 20px;
+  font-size: 16px;
+}
+h3 {
+  margin-top: 400px;
+  font-size: 30px;
+}
+footer {
+  padding-bottom: 20px;
+}
